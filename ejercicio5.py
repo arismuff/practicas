@@ -1,0 +1,8 @@
+comida = input("cuanto ha costado la comida? ")
+IVA = (float(comida)*0.1)
+Propina = (float(comida)*0.1)
+total = (float(comida)+ float(IVA) + float(Propina))
+print("el precio de la comida es de " +str(float(comida)))
+print("el IVA es de " +str(float(IVA)))
+print("la propina es de " + str(float(Propina)))
+print("el precio total es de " + str(float(total)))

@@ -1,0 +1,1 @@
+print ("aris mufraggi"+"\n"+"carrer bartomeu rossello-porcel, 15, 4º 3ª"+"\n"+"o7o14 palma de mallorca"+"\n"+"baleares (españa)")
